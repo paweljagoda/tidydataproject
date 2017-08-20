@@ -18,7 +18,7 @@ y_train.txt . The activity_labels.txt file was also included for later purposes.
 * Having set the relevant working directory that includes the aforementioned data sets, the script loads each dataset as individual
   data frames.
   
-* The data sets are merged together along columns and rows using cbind and rbind functions as follows: 
+* The data frames are merged together along columns and rows using cbind and rbind functions as follows: 
    - the columns of ".test" files are bound in the order of subject.test | y.test | X.test
    - the columns of ".train" files are bound in the order of subject.train | y.train | X.train
    - the rows of the above two data sets are then bound with the ".test" observations on top.
