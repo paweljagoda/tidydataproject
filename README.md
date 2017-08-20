@@ -1,7 +1,7 @@
 # Tidy Data Project
 
-This project was submitted as part of the Getting and Cleaning Data course on Coursera. Its purpose is to transform provided raw
-accelerometer data from Samsung Galaxy S smartphone into a clean data set for later analysis. 
+This project was submitted as part of the Getting and Cleaning Data course on Coursera. Its purpose is to transform provided
+accelerometer and gyroscope 3-axial raw data from Samsung Galaxy S smartphone into a clean data set for later analysis. 
 
 ## Introduction
 
