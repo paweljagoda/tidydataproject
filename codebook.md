@@ -32,21 +32,21 @@ The variables included in my final clean dataset are denoted as follows:
   - SITTING
   - STANDING 
   - LAYING
-* tBodyAcc.mean.X: mean estimated body acceleration along the x axis
-* tBodyAcc.mean.Y: mean estimated body acceleration along the y axis
-* tBodyAcc.mean.Z: mean estimated body acceleration along the z axis
-* tBodyAcc.std.X: standard deviation of estimated body acceleration along the x axis
-* tBodyAcc.std.Y: standard deviation of estimated body acceleration along the y axis
-* tBodyAcc.std.Z: standard deviation of estimated body acceleration along the z axis
-* tGravityAcc.mean.X: mean gravitational acceleration along the x axis
-* tGravityAcc.mean.Y: mean gravitational acceleration along the y axis
-* tGravityAcc.mean.Z: mean gravitational acceleration along the z axis
-* tGravityAcc.std.X: standard deviation of gravitational acceleration along the x axis
-* tGravityAcc.std.Y: standard deviation of gravitational acceleration along the y axis
-* tGravityAcc.std.Z: standard deviation of gravitational acceleration along the z axis
-* tBodyGyro.mean.X: mean angular velocity from the gyroscope along the x axis
-* tBodyGyro.mean.Y: mean angular velocity from the gyroscope along the y axis
-* tBodyGyro.mean.Z: mean angular velocity from the gyroscope along the z axis
-* tBodyGyro.std.X: standard deviation of angular velocity from the gyroscope along the x axis
-* tBodyGyro.std.Y: standard deviation of angular velocity from the gyroscope along the y axis
-* tBodyGyro.std.Z: standard deviation of angular velocity from the gyroscope along the z axis
+* tBodyAcc.mean.X: averaged mean estimated body acceleration along the x axis
+* tBodyAcc.mean.Y: averaged mean estimated body acceleration along the y axis
+* tBodyAcc.mean.Z: averaged mean estimated body acceleration along the z axis
+* tBodyAcc.std.X: averaged standard deviation of estimated body acceleration along the x axis
+* tBodyAcc.std.Y: averaged standard deviation of estimated body acceleration along the y axis
+* tBodyAcc.std.Z: averaged standard deviation of estimated body acceleration along the z axis
+* tGravityAcc.mean.X: averaged mean gravitational acceleration along the x axis
+* tGravityAcc.mean.Y: averaged mean gravitational acceleration along the y axis
+* tGravityAcc.mean.Z: averaged mean gravitational acceleration along the z axis
+* tGravityAcc.std.X: averaged standard deviation of gravitational acceleration along the x axis
+* tGravityAcc.std.Y: averaged standard deviation of gravitational acceleration along the y axis
+* tGravityAcc.std.Z: averaged standard deviation of gravitational acceleration along the z axis
+* tBodyGyro.mean.X: averaged mean angular velocity from the gyroscope along the x axis
+* tBodyGyro.mean.Y: averaged mean angular velocity from the gyroscope along the y axis
+* tBodyGyro.mean.Z: averaged mean angular velocity from the gyroscope along the z axis
+* tBodyGyro.std.X: averaged standard deviation of angular velocity from the gyroscope along the x axis
+* tBodyGyro.std.Y: averaged standard deviation of angular velocity from the gyroscope along the y axis
+* tBodyGyro.std.Z: averaged standard deviation of angular velocity from the gyroscope along the z axis
