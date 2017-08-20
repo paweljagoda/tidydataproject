@@ -27,7 +27,7 @@ y_train.txt . The activity_labels.txt file was also included for later purposes.
   with reference to the features.txt file in the UCI HAR Dataset folder. 
 
 * The variables are labelled through assignment of column names to a character vector in accordance with the features.txt file, 
-  with brackets and hyphens being replaced by dots to enable smoother work with the dplyr package later. For more description of
+  with brackets and hyphens being replaced by dots to enable smoother work with the dplyr package later. For more description about
   each variable please refer to the codebook.MD file in this repository.
   
 * The numerical values of the "activity" variable are replaced with more descriptive labels using the "activity_labels.txt" file.
