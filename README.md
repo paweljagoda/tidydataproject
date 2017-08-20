@@ -5,7 +5,7 @@ accelerometer data from Samsung Galaxy S smartphone into a clean data set for la
 
 ## Introduction
 
-The script, written in R, to achieve this, run_analysis.R , works with the UCI HAR Dataset which can be downloaded from the link below:
+The script to achieve this, run_analysis.R , works with the UCI HAR Dataset which can be downloaded from the link below:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
